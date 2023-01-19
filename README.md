@@ -1,1 +1,0 @@
-# LogicTest_Delos
